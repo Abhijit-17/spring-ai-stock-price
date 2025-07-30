@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: spring_ai_stock_price
+    ai:
+        openai:
+            api-key: ${OPENAI_API_KEY}
+
