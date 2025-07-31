@@ -4,4 +4,7 @@ spring:
     ai:
         openai:
             api-key: ${OPENAI_API_KEY}
+asb:
+    aiapp:
+        apiNinjasKey: ${API_NINJAS_KEY}
 
